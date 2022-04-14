@@ -1,5 +1,7 @@
-### Hi there 👋
+### Welcome here! 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7yue&show_icons=true&count_private=true&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7yue&theme=algolia" />
 <!--
 **m7yue/m7yue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
