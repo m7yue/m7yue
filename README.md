@@ -1,4 +1,3 @@
-![banner](./assets/images/your-name.jpeg)
 ### Welcome here! 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=m7yue&show_icons=true&count_private=true&theme=algolia" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7yue&hide=html&theme=algolia&count_private=false" />
